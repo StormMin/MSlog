@@ -1,0 +1,8 @@
+input[type=text] {
+ 
+    }
+div[type=text]{
+ width: 50rem;
+ height: 50rem;
+ outline: auto;
+}
