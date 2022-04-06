@@ -1,0 +1,15 @@
+input[type=text] {
+ 
+    }
+div[type=text]{
+ width: 50rem;
+ height: 50rem;
+ outline: auto;
+}
+.story{
+    border: 1px solid black;
+    max-width: 70rem;
+    height: 40rem;
+    max-height: 40rem;
+    overflow-y: scroll;
+}
